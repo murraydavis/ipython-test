@@ -2,4 +2,4 @@
 ._*.svn
 .hg
 .*.swp
-.tst
+*.tst
